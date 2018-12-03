@@ -5,7 +5,7 @@
 
 class Registro{
 	private:
-		list <Alumno> alumnos_;
+		list <Alumno> alumnos_; //Lista de alumnos donde se guarda lo que cargue el fichero al iniciar el programa
 
 	public:
 		bool checkDni(string dni);//comprueba que el dni pasado no existe en la lista
