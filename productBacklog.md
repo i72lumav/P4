@@ -1,4 +1,6 @@
-#Prioridad 1:
+# Prioridad 1:
+
+
 ## ANVERSO
 
 **ID:** 006 **Cargar**
@@ -20,7 +22,9 @@ Como usuario, quiero poder cargar los datos del sistema de la base de datos.
 
 
 
-#Prioridad 1:
+# Prioridad 1:
+
+
 ## ANVERSO
 
 **ID:** 007 **Guardar**
@@ -43,7 +47,9 @@ Como usuario, quiero porder guardar los datos de la base de datos tras haber rea
 
 
 
-#Prioridad 2:
+# Prioridad 2:
+
+
 ## ANVERSO 
 
 
@@ -67,7 +73,9 @@ Como usuario quiero poder añadir un alumno en el sistema
 
 
 
-#Prioridad 3:
+# Prioridad 3:
+
+
 ## ANVERSO
 
 **ID:** 002 **Buscar**
@@ -89,7 +97,9 @@ Como usuario, quiero buscar a los alumnos, ya sea a través del DNI o del apelli
 
 
 
-#Prioridad 4
+# Prioridad 4:
+
+
 ## ANVERSO
 
 **ID:** 004 **Eliminar alumno**
@@ -113,7 +123,9 @@ Como usuario quiero poder eliminar a los alumnos
 
 
 
-#prioridad 4
+# Prioridad 4:
+
+
 ## ANVERSO
 
 **ID:** 003 **Modificar alumno**
@@ -137,7 +149,9 @@ El usuario podrá modificar los datos que aparezcan en el sistema.
 
 
 
-#Prioridad 5:
+# Prioridad 5:
+
+
 ## ANVERSO
 
 **ID:** 005 **Mostrar alumno**
