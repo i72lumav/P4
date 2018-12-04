@@ -2,8 +2,15 @@
 ---
 
 Creación de la clase alumno.
-Creación de la funciÓn guardar.
+
+
+Creación de la función guardar.
+
+
 Creación de la función cargar.
+
+
 Comprobación de su funcionamiento y prueba de la mismas.
 
 ---
+
