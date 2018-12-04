@@ -22,9 +22,6 @@ Como usuario, quiero poder cargar los datos del sistema de la base de datos.
 ---
 
 
-
-
-
 # Prioridad 1:
 
 
