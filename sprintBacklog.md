@@ -14,3 +14,10 @@
 
 ---
 
+
+# Semana 2 (04/12/2018 - 11/12/2018)
+---
+
+1. Comprobación de la función guardar a partir de un alumno de prueba.
+
+---
