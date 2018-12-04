@@ -1,4 +1,50 @@
+#Prioridad 1:
 ## ANVERSO
+
+**ID:** 006 **Cargar**
+
+---
+
+Como usuario, quiero poder cargar los datos del sistema de la base de datos.
+
+**Prioridad:** 1
+
+---
+
+## REVERSO
+---
+
+* Quiero recuperar los datos guardados con anterioridad.
+
+---
+
+
+
+#Prioridad 1:
+## ANVERSO
+
+**ID:** 007 **Guardar**
+
+---
+
+Como usuario, quiero porder guardar los datos de la base de datos tras haber realizado alguna modificación. Dichos datos se guardarán en un fichero binario.
+
+**Prioridad:** 1
+
+---
+
+## REVERSO
+---
+
+* Quiero poder guardar todos los datos.
+* Los datos quiero guardarlos en un fichero binario.
+
+---
+
+
+
+#Prioridad 2:
+## ANVERSO 
 
 
 **ID:** 001 **Añadir alumnos**
@@ -21,7 +67,7 @@ Como usuario quiero poder añadir un alumno en el sistema
 
 
 
-
+#Prioridad 3:
 ## ANVERSO
 
 **ID:** 002 **Buscar**
@@ -43,33 +89,7 @@ Como usuario, quiero buscar a los alumnos, ya sea a través del DNI o del apelli
 
 
 
-
-
-## ANVERSO
-
-**ID:** 003 **Modificar alumno**
-
----
-
-El usuario podrá modificar los datos que aparezcan en el sistema.
-
-**Prioridad:** 2
-
----
-
-## REVERSO
----
-
-* Los datos a modifcar los podrá buscar por:
-    * DNI: Dejará modificar directamente todos los datos
-    * APELLIDO: Si el apellido está repetido pedirá el DNI para modificar, si es apellido único, dejará modificar directamente todos los datos
-
----
-
-
-
-
-
+#Prioridad 4
 ## ANVERSO
 
 **ID:** 004 **Eliminar alumno**
@@ -93,8 +113,31 @@ Como usuario quiero poder eliminar a los alumnos
 
 
 
+#prioridad 4
+## ANVERSO
+
+**ID:** 003 **Modificar alumno**
+
+---
+
+El usuario podrá modificar los datos que aparezcan en el sistema.
+
+**Prioridad:** 2
+
+---
+
+## REVERSO
+---
+
+* Los datos a modifcar los podrá buscar por:
+    * DNI: Dejará modificar directamente todos los datos
+    * APELLIDO: Si el apellido está repetido pedirá el DNI para modificar, si es apellido único, dejará modificar directamente todos los datos
+
+---
 
 
+
+#Prioridad 5:
 ## ANVERSO
 
 **ID:** 005 **Mostrar alumno**
@@ -120,45 +163,5 @@ El sistema dará la posibilidad al usuario de visualizar el contenido
 
 
 
-## ANVERSO
-
-**ID:** 006 **Cargar**
-
----
-
-Como usuario, quiero poder cargar los datos del sistema de la base de datos.
-
-**Prioridad:** 1
-
----
-
-## REVERSO
----
-
-* Quiero recuperar los datos guardados con anterioridad.
-
----
 
 
-
-
-
-## ANVERSO
-
-**ID:** 007 **Guardar**
-
----
-
-Como usuario, quiero porder guardar los datos de la base de datos tras haber realizado alguna modificación. Dichos datos se guardarán en un fichero binario.
-
-**Prioridad:** 1
-
----
-
-## REVERSO
----
-
-* Quiero poder guardar todos los datos.
-* Los datos quiero guardarlos en un fichero binario.
-
----
